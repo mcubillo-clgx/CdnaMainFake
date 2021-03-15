@@ -1,0 +1,3 @@
+[submodule "ExternalFake"]
+	path = ExternalFake
+	url = https://github.com/mcubillo-clgx/ExternalFake.git
